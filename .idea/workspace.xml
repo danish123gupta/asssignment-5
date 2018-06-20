@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0e5eb028-d878-4316-9699-e55897802cb9" name="Default" comment="" />
+    <list default="true" id="0e5eb028-d878-4316-9699-e55897802cb9" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/assignment 7.1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -11,11 +14,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="assignment 6.2.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="assignment 6.2.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/assignment 6.2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="348">
-              <caret line="98" column="16" lean-forward="true" selection-start-line="98" selection-start-column="16" selection-end-line="98" selection-end-column="16" />
+            <state relative-caret-position="1666">
+              <caret line="98" column="16" selection-start-line="98" selection-start-column="16" selection-end-line="98" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="assignment 7.1.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/assignment 7.1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="178">
+              <caret line="55" column="12" lean-forward="true" selection-start-line="55" selection-start-column="12" selection-end-line="55" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -41,6 +53,9 @@
         <option value="$PROJECT_DIR$/assignment 6..py" />
         <option value="$PROJECT_DIR$/assignment 6.py" />
         <option value="$PROJECT_DIR$/assignment 6.2.py" />
+        <option value="$PROJECT_DIR$/assignment 7.py" />
+        <option value="$PROJECT_DIR$/asssignment 7.py" />
+        <option value="$PROJECT_DIR$/assignment 7.1.py" />
       </list>
     </option>
   </component>
@@ -56,6 +71,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -67,7 +83,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="RunDashboard">
@@ -82,7 +97,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.assignment 6.2">
+  <component name="RunManager" selected="Python.assignment 7.1">
     <configuration name="assignment 6" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="danish" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -119,7 +134,7 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="assignment" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="assignment 7" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="danish" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -131,13 +146,13 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/assignment.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/assignment 7.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="assignment5" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="assignment 7.1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="danish" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -149,24 +164,44 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/assignment5.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/assignment 7.1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="asssignment 7" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="danish" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/asssignment 7.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list>
-      <item itemvalue="Python.assignment" />
-      <item itemvalue="Python.assignment5" />
       <item itemvalue="Python.assignment 6" />
       <item itemvalue="Python.assignment 6.2" />
+      <item itemvalue="Python.assignment 7" />
+      <item itemvalue="Python.asssignment 7" />
+      <item itemvalue="Python.assignment 7.1" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.assignment 7.1" />
+        <item itemvalue="Python.asssignment 7" />
+        <item itemvalue="Python.assignment 7" />
         <item itemvalue="Python.assignment 6.2" />
         <item itemvalue="Python.assignment 6" />
-        <item itemvalue="Python.assignment5" />
-        <item itemvalue="Python.assignment" />
       </list>
     </recent_temporary>
   </component>
@@ -184,12 +219,11 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="754" extended-state="7" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23645681" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32868218" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" />
       <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32868218" />
@@ -198,17 +232,32 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32868218" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/assignment 6.2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1666">
+          <caret line="98" column="16" lean-forward="true" selection-start-line="98" selection-start-column="16" selection-end-line="98" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assignment 7.1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/assignment 6.2.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
@@ -238,10 +287,19 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/assignment 7.py" />
+    <entry file="file://$PROJECT_DIR$/asssignment 7.py" />
     <entry file="file://$PROJECT_DIR$/assignment 6.2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="348">
-          <caret line="98" column="16" lean-forward="true" selection-start-line="98" selection-start-column="16" selection-end-line="98" selection-end-column="16" />
+        <state relative-caret-position="1666">
+          <caret line="98" column="16" selection-start-line="98" selection-start-column="16" selection-end-line="98" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assignment 7.1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="178">
+          <caret line="55" column="12" lean-forward="true" selection-start-line="55" selection-start-column="12" selection-end-line="55" selection-end-column="12" />
         </state>
       </provider>
     </entry>
