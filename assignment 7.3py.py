@@ -33,7 +33,7 @@ print(mydate.strftime("%A"))
 
 #Q.NO.6
 import time
-localtime = time.localtime(time.time())
+localtime = time.localtime(time.time( ))
 print("local current time:",localtime)
 
 
