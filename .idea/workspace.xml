@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0e5eb028-d878-4316-9699-e55897802cb9" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/assignment 10.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assignment 9.3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment 11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/keys.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tweet.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Include/keys.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,26 +16,31 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="assignment 9.3.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assignment 9.3.py">
+    <leaf>
+      <file leaf-file-name="assignment 11.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/assignment 11.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="18" lean-forward="true" selection-end-line="15" selection-end-column="33" />
-              <folding>
-                <element signature="e#0#16#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="178">
+              <caret line="36" column="39" selection-start-line="36" selection-start-column="39" selection-end-line="36" selection-end-column="39" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="assignment 10.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/assignment 10.py">
+      <file leaf-file-name="keys.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/keys.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="348">
-              <caret line="74" lean-forward="true" selection-start-line="74" selection-end-line="74" />
+            <state relative-caret-position="51">
+              <caret line="3" column="60" selection-start-line="3" selection-start-column="60" selection-end-line="3" selection-end-column="60" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="tweet.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tweet.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
               <folding>
-                <element signature="e#12#28#0" expanded="true" />
+                <element signature="e#0#30#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -75,6 +82,11 @@
         <option value="$PROJECT_DIR$/assignment 9.py" />
         <option value="$PROJECT_DIR$/assignment 9.3.py" />
         <option value="$PROJECT_DIR$/assignment 10.py" />
+        <option value="$PROJECT_DIR$/venv/Include/keys.py" />
+        <option value="$PROJECT_DIR$/jen.py" />
+        <option value="$PROJECT_DIR$/tweet.py" />
+        <option value="$PROJECT_DIR$/keys.py" />
+        <option value="$PROJECT_DIR$/assignment 11.py" />
       </list>
     </option>
   </component>
@@ -90,6 +102,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -102,12 +115,36 @@
               <item name="danish" type="462c0819:PsiDirectoryNode" />
               <item name="venv" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="danish" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="danish" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.6 (danish) &gt;" type="70bed36:NamedLibraryElementNode" />
+            </path>
+            <path>
+              <item name="danish" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.6 (danish) &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="venv" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="danish" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.6 (danish) &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="venv" type="462c0819:PsiDirectoryNode" />
+              <item name="Include" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -121,7 +158,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.assignment 10">
+  <component name="RunManager" selected="Python.assignment 11">
     <configuration name="assignment 10" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="danish" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -140,7 +177,7 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="assignment 7.4" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="assignment 11" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="danish" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -152,13 +189,13 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/assignment 7.4.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/assignment 11.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="assignment 8.4" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="jen" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="danish" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -170,13 +207,13 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/assignment 8.4.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/jen.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="assignment 9" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="keys" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="danish" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -188,13 +225,13 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/assignment 9.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/keys.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="assignment 9.3" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="tweet" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="danish" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -206,26 +243,26 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/assignment 9.3.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tweet.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list>
-      <item itemvalue="Python.assignment 8.4" />
-      <item itemvalue="Python.assignment 7.4" />
-      <item itemvalue="Python.assignment 9" />
-      <item itemvalue="Python.assignment 9.3" />
       <item itemvalue="Python.assignment 10" />
+      <item itemvalue="Python.tweet" />
+      <item itemvalue="Python.jen" />
+      <item itemvalue="Python.assignment 11" />
+      <item itemvalue="Python.keys" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.assignment 11" />
+        <item itemvalue="Python.tweet" />
+        <item itemvalue="Python.keys" />
+        <item itemvalue="Python.jen" />
         <item itemvalue="Python.assignment 10" />
-        <item itemvalue="Python.assignment 9.3" />
-        <item itemvalue="Python.assignment 9" />
-        <item itemvalue="Python.assignment 8.4" />
-        <item itemvalue="Python.assignment 7.4" />
       </list>
     </recent_temporary>
   </component>
@@ -246,12 +283,12 @@
     <frame x="-8" y="-8" width="1382" height="754" extended-state="7" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23645681" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22986823" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.24304539" side_tool="true" visible="true" weight="0.32868218" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32868218" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.7569546" weight="0.32868218" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Favorites" order="2" side_tool="true" />
@@ -280,6 +317,30 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/keys.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="60" lean-forward="true" selection-end-line="3" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assignment 9.3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="18" lean-forward="true" selection-end-line="15" selection-end-column="33" />
+          <folding>
+            <element signature="e#0#16#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assignment 10.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1258">
+          <caret line="74" lean-forward="true" selection-start-line="74" selection-end-line="74" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/assignment 9.3.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="561">
@@ -491,23 +552,51 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/assignment 10.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="254">
+          <caret line="60" column="16" lean-forward="true" selection-start-line="60" selection-start-column="16" selection-end-line="60" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/assignment 9.3.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="18" lean-forward="true" selection-end-line="15" selection-end-column="33" />
+        <state relative-caret-position="17">
+          <caret line="6" column="18" selection-end-line="15" selection-end-column="33" />
           <folding>
             <element signature="e#0#16#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assignment 10.py">
+    <entry file="file://$PROJECT_DIR$/venv/Include/keys.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="348">
-          <caret line="74" lean-forward="true" selection-start-line="74" selection-end-line="74" />
+        <state relative-caret-position="51">
+          <caret line="3" column="18" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jen.py" />
+    <entry file="file://$PROJECT_DIR$/tweet.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
           <folding>
-            <element signature="e#12#28#0" expanded="true" />
+            <element signature="e#0#30#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/keys.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="60" selection-start-line="3" selection-start-column="60" selection-end-line="3" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assignment 11.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="178">
+          <caret line="36" column="39" selection-start-line="36" selection-start-column="39" selection-end-line="36" selection-end-column="39" />
         </state>
       </provider>
     </entry>
