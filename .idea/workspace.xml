@@ -2,9 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0e5eb028-d878-4316-9699-e55897802cb9" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/assignment 12.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assignment 13.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assignment12.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment 13.2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment13.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment14.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dan.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dan2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fftt.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rando.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/random.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,20 +22,43 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="assignment 12.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assignment 12.py">
+      <file leaf-file-name="fftt.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/fftt.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="19" column="22" selection-start-line="10" selection-end-line="25" />
+            <state relative-caret-position="102">
+              <caret line="6" column="769" selection-start-line="6" selection-start-column="769" selection-end-line="6" selection-end-column="769" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="assignment12.1.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/assignment12.1.py">
+      <file leaf-file-name="assignment14.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/assignment14.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="331">
-              <caret line="78" column="20" lean-forward="true" selection-start-line="78" selection-start-column="20" selection-end-line="78" selection-end-column="20" />
+            <state relative-caret-position="183">
+              <caret line="39" column="26" selection-start-line="39" selection-start-column="26" selection-end-line="39" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="rando.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/rando.txt">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="dan2.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dan2.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-102">
+              <caret line="321" selection-start-line="321" selection-end-line="321" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="dan.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dan.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="371">
+              <caret line="204" column="706" lean-forward="true" selection-start-line="204" selection-start-column="706" selection-end-line="204" selection-end-column="706" />
             </state>
           </provider>
         </entry>
@@ -78,6 +107,12 @@
         <option value="$PROJECT_DIR$/assignment 13.py" />
         <option value="$PROJECT_DIR$/assignment 12.py" />
         <option value="$PROJECT_DIR$/assignment12.1.py" />
+        <option value="$PROJECT_DIR$/test.txt" />
+        <option value="$PROJECT_DIR$/assignment13.py" />
+        <option value="$PROJECT_DIR$/assignment 13.2.py" />
+        <option value="$PROJECT_DIR$/fftt.txt" />
+        <option value="$PROJECT_DIR$/random.txt" />
+        <option value="$PROJECT_DIR$/assignment14.py" />
       </list>
     </option>
   </component>
@@ -149,25 +184,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.assignment12.1">
-    <configuration name="assignment 11" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="danish" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/assignment 11.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
+  <component name="RunManager" selected="Python.assignment14">
     <configuration name="assignment 12" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="danish" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -181,6 +198,24 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/assignment 12.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="assignment 13.2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="danish" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/assignment 13.2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -204,7 +239,7 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="keys" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="assignment13" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="danish" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -216,13 +251,13 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/keys.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/assignment13.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="tweet" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="assignment14" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="danish" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -234,26 +269,26 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tweet.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/assignment14.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list>
-      <item itemvalue="Python.tweet" />
-      <item itemvalue="Python.assignment 11" />
-      <item itemvalue="Python.keys" />
       <item itemvalue="Python.assignment 12" />
       <item itemvalue="Python.assignment12.1" />
+      <item itemvalue="Python.assignment13" />
+      <item itemvalue="Python.assignment 13.2" />
+      <item itemvalue="Python.assignment14" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.assignment14" />
+        <item itemvalue="Python.assignment 13.2" />
+        <item itemvalue="Python.assignment13" />
         <item itemvalue="Python.assignment12.1" />
         <item itemvalue="Python.assignment 12" />
-        <item itemvalue="Python.assignment 11" />
-        <item itemvalue="Python.tweet" />
-        <item itemvalue="Python.keys" />
       </list>
     </recent_temporary>
   </component>
@@ -273,12 +308,12 @@
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="7" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22327965" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21669106" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.24450952" side_tool="true" visible="true" weight="0.32868218" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.24597365" side_tool="true" visible="true" weight="0.32868218" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.7554905" visible="true" weight="0.32868218" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.75402635" visible="true" weight="0.32868218" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Favorites" order="2" side_tool="true" />
@@ -307,47 +342,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/tweet.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assignment.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="30" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assignment 11.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="612">
-          <caret line="36" column="39" selection-start-line="36" selection-start-column="39" selection-end-line="36" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/keys.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="60" selection-start-line="3" selection-start-column="60" selection-end-line="3" selection-end-column="60" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tweet.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/keys.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="60" lean-forward="true" selection-end-line="3" selection-end-column="60" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assignment 9.3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="18" lean-forward="true" selection-end-line="15" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/assignment 10.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1258">
@@ -578,9 +572,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/jen.py" />
-    <entry file="file://$PROJECT_DIR$/tweet.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/keys.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
@@ -604,15 +595,63 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/assignment 12.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
+        <state relative-caret-position="323">
           <caret line="19" column="22" selection-start-line="10" selection-end-line="25" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/assignment12.1.py">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1326">
+          <caret line="78" column="20" selection-start-line="78" selection-start-column="20" selection-end-line="78" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assignment13.py">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="331">
-          <caret line="78" column="20" lean-forward="true" selection-start-line="78" selection-start-column="20" selection-end-line="78" selection-end-column="20" />
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assignment 13.2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="12" lean-forward="true" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/random.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dan.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="371">
+          <caret line="204" column="706" lean-forward="true" selection-start-line="204" selection-start-column="706" selection-end-line="204" selection-end-column="706" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dan2.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-102">
+          <caret line="321" selection-start-line="321" selection-end-line="321" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rando.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fftt.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="769" selection-start-line="6" selection-start-column="769" selection-end-line="6" selection-end-column="769" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assignment14.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="183">
+          <caret line="39" column="26" selection-start-line="39" selection-start-column="26" selection-end-line="39" selection-end-column="26" />
         </state>
       </provider>
     </entry>
